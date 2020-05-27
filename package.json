@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "每一节课都是一个分支，分支名为课程名称编号",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon -x npm run server",
