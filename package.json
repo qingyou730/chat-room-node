@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "ding",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DuYi-Edu/DuYi-Node.git"
+    "url": "git+https:///qingyou730/chat-room-node"
   },
   "author": "",
   "license": "ISC",
