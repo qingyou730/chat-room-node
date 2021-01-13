@@ -52,7 +52,7 @@ const page = (function () {
   function initChatRoom() {
     userList.html(`<li class="all">所有人</li>`);
     $(".user-list .title span").text(0);
-    chatList.html(`<li class="log">欢迎来到渡一聊天室</li>`);
+    chatList.html(`<li class="log">欢迎来到丁玉东的聊天室</li>`);
   }
 
   userList.click((e) => {
